@@ -42,4 +42,4 @@ Here is the [link](https://drive.google.com/file/d/1_TCsxud2RSg_5_bGwGXWPmjoosXd
 * When I was creating level 1 using the classes I had built, the height and width calculations to place objets at certain location took a lot of time because the image assets were not well-organized in terms of their sizes and empty areas on the sides. Due to time constraints, I was able to make only one complete level of the game to submit for the assignment. For making new levels in the future, I will first organize all the assets and then start working on the mathematics in order to make levels efficiently.
 
 #### References: 
-The free image assets are taken from [link](https://www.gameart2d.com/winter-platformer-game-tileset.html).
+The free image assets are taken from [this website](https://www.gameart2d.com/winter-platformer-game-tileset.html).
