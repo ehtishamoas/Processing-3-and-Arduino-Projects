@@ -1,5 +1,5 @@
-# Final Project: Highway Racer
-# Team Members: Badr Arraichi (ba2134) and Ehtisham Ul Haq (eu2028)    
+# Project: Highway Racer
+# Team Members: Badr (ba2134@nyu.edu) and Ehtisham Ul Haq (eu2028@nyu.edu)    
 #---------------------------------------------------
 
 #██╗░░██╗██╗░██████╗░██╗░░██╗░██╗░░░░░░░██╗░█████╗░██╗░░░██╗   ██████╗░░█████╗░░█████╗░███████╗██████╗░
